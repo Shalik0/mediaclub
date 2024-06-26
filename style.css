@@ -1,3 +1,31 @@
-a img{
-   font-size: 30px;
+/* Basic Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
 }
+
+header {
+    background-color: #f0f0f0; /* Light gray */
+    padding: 1rem;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+section {
+    padding: 2rem;
+}
+
+/* Add more styles for sections, articles, etc. */
